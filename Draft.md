@@ -20,7 +20,7 @@ _to be proposed at meeting 3_
 
 **Section 1 - Becoming a Member**:
 
-1. To become a member, prospective members will email a club officer.
+1. To become a member, prospective members will email a club officer. Contact information can be found at https://unhm-programming-club.github.io/ at the time of thi writing.
 1. No prior Programming experience is required.
 1. All members will create a Github account and join the club organization, which is named in the Club Accounts Procedures.
 1. Members are encouraged to join the Discord.
@@ -41,13 +41,15 @@ Small contributions are acceptable for maintaining membership.
 
 **Section 3 - Member Privileges**:
 
-1. Members may propose a resolution at any club meeting. Another member must "second" that resolution before it is brought to a vote of the general membership. If the resolution receives 50% of the vote, does not violate the text or spirit of this constitution, and is possible to implement, the board of directors will implement the resolution as soon as feasible.
+1. Members may propose a resolution at any club meeting. Another member must "second" that resolution before it is brought to a vote of the general membership. If the resolution receives more than 50% of the vote, does not violate the text or spirit of this constitution, and is possible to implement, the board of directors will implement the resolution as soon as feasible.
 
 1. Members may email officers with issues they desire the board to review and that officer shall bring the issue to the attention of the board.
 
-1. Members may start a new group programming project on the github organization page, promote that project to members of the club, and be vested with control and leadership over the project they started. However, one member of the board must approve of the project to ensure it falls within conduct requirements, and the board may vote to cancel a project at the next meeting. Projects will not be cancelled without good reason. Projects which will represent the club in an official capacity, such as the website or Discord bot, shall have a board member or member appointed by the board in the leadership role.
+1. Members may start a new group programming project on the github organization page, promote that project to members of the club, and be vested with control and leadership over the project they started. However, one member of the board must approve of the project to ensure it falls within conduct requirements, and the board may vote to cancel a project at the next meeting with a 2/3 majority. Projects will not be cancelled without good reason. Projects which will represent the club in an official capacity, such as the website or Discord bot, shall have a board member or member appointed by the board in the leadership role.
 
 1. Members may join any existing group project with approval from that projects leader. They must take direction from that project's leader and not expect all pull requests to be approved. Team members on a project will be included in discussion about the project.
+
+1. Members may request new voice and/or text channels on the Discord from a Discord Adminstrator to help coordinate their project team
 
 1. Members may submit bug reports and pull requests to help out existing projects, regardless of whether they are a team member on that project, but should not expect to have their pull request approved.
 
@@ -104,7 +106,7 @@ Votes shall be public, but if a member wishes their vote to be cast secretly, th
 
 **Section X - Constitution**:
 
-Changes to the Constitution will be proposed and approved by officers. If approved, they will be presented to the entire club for a general vote. If 2/3rds of the club membership agrees to the change, the Constitution will be updated by the Secretary or Club President to reflect that.
+Changes to the Constitution must be proposed and endorsed by an officer who will bring it to a vote in the next member meeting. If 2/3rds of the club membership agrees to the change, the Constitution will be updated by the Secretary or Club President to reflect the change.
 
 **Section X - Changes to Club Accounts Procedures**:
 
