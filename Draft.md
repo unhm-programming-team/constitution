@@ -20,7 +20,7 @@ _to be proposed at meeting 3_
 
 **Section 1 - Becoming a Member**:
 
-1. To become a member, prospective members will email a club officer. Contact information can be found at https://unhm-programming-club.github.io/ at the time of thi writing.
+1. To become a member, prospective members will email a club officer. Contact information can be found at https://unhm-programming-club.github.io/ at the time of this writing.
 1. No prior Programming experience is required.
 1. All members will create a Github account and join the club organization, which is named in the Club Accounts Procedures.
 1. Members are encouraged to join the Discord.
@@ -60,6 +60,40 @@ Small contributions are acceptable for maintaining membership.
 1. If a member violates the political or sexual harassment sections of the conduct requirements, they may be unilaterally removed by agreement of the club president and vice president, but those officers must validate the circumstances first.
 1. If a member is believed to have violated another section of the conduct requirements, the board will consider the evidence and vote by majority whether to remove them. The evidence must show that the member violated a conduct requirement.
 
+**Section 5 - Adjuct Members**:
+
+Voted to implement adjunct membership in the Constitution at meeting 3, (7-0)
+
+1. Members from the UNH Durham Campus and students who have left UNH within the last 2 years may have adjunct membership.
+1. Adjunct members must follow the same conduct rules as regular members.
+1. Adjunct members shall have the same privilege of starting new projects on the team repository and recruiting collaborators.
+1. Adjunct members shall have the same privilege of joining existing projects and being included in them as much as feasible.
+1. Adjunct members shall not hold officer roles.
+
+**_Option_**:
+
+1. Adjunct members may not vote?
+
+**Section 6 - Faculty**:
+
+Voted to to implement Meeting 5
+
+1. The board shall vote on the faculty advisor.
+1. The new board shall re-approve the faculty advisor after taking office by majority.
+
+**_Option_**:
+
+1. Other faculty guests are welcome to collaborate with the club and offer assistance and guidance.
+1. Faculty led projects must get approval by board majority.
+1. Faculty collaboration must be approved by the president or vice president.
+
+**Section 7 - Nonmember Students**
+
+**_Option_**:
+
+1. Nonmember students shall be allowed only in general channels on the Discord, if they are not a distraction.
+
+
 ### Article IV - Officers
 
 _draft_
@@ -75,30 +109,63 @@ _draft_
 - The **Secretary** will keep a record of meetings and member contact info, and will create a summary of the meeting and upload that summary to Github after the meeting is concluded. They will send out an invite to club members before the club meets
 - The **Discord Admins** will organize and create rules for the Discord, approve changes to the Discord bot, and be vested with the power to kick individuals from the discord for legitimate reasons.
 
+**_Option_**:
+
+- The **Treasurer** will track expenses, investigate fundraising activities, submit requests for funds, and allocate funds to projects.
+
+**_Option_**:
+
+- The **Quartermaster** shall budget and plan events, ensure enough supplies are acquired, and organize and direct the trip safely.
+
+
 **Section X - Nomination**:
 
+**_Option 1_**: 
 
+1. Members may nominate themselves as candidates any time before an election.
+  
+**_Option 2_**:
+
+1. Another member must nominate a candidate prior to an election for them to be eligible.
+  
+**_Option 3_*:
+
+1. Members will anonymously submit nominations of other member candidates; the nominees will be subsequently asked if they wish to run for the role and be added to the ballot if so.
 
 **Section X - Removing Officers**:
 
+**_Option_**
+
 Any officer neglecting their duties may be removed by a 2/3 vote of the board. They may appeal to the general membership at the next general member meeting, and a 2/3 vote from the membership will reinstate them.
 
+**_Option_**
+
 Membership may vote to remove an officer by a 2/3 vote.
+
+**_Option_**
 
 If an officer is removed, the president may appoint an interim officer to fill that role until an election is held, which shall not occur later than 1 month from the officers removal.
 
 ### Article V - Elections
 
-_draft_
 
 **Section X - Quorum**:
 The quorum for a board is 50% of board members in attendance and the quorum for the club is 50% of club members in attendance. Quorum is not required for yearly elections, because non-voting members are removed from the rolls. Quorum must be met for a vote on a resolution to be valid.
 
 **Section X - Proxy Voting**:
 
+**_Option_**
+
 Generally, there is no proxy voting allowed. A special exemption will exist for yearly officer elections. If a member absolutely cannot attend to cast their vote, they may submit a public vote by announcing it in the Discord and e-mailing it to the President _prior_ to the election.
 
+**_Option_**
+
+All elections will be held anonymously in some manner.
+
+
 **Section X - Officer Elections**:
+
+**_Option_**
 
 The club will hold elections for officers in the first week of March of the Spring semester, but the first election shall be conducted the week after this Constitution is ratified. All members meeting the membership requirements will be entitled to one vote for each officer. Individuals with the majority of votes will be appointed to that officer role.
 
@@ -122,11 +189,36 @@ General programming discussion will be available asynchronously on Discord to me
 
 **Section 1 : Parliametry Procedure**:
 
-_Roberts Rules of Order?_
+**_Option_**:
+
+Parliamentry procedure shall be followed in accordance with the version of Roberts Rules of Order in the attached document.
+
+**Section X : Meeting Notice**
+
+**_Option_**:
+
+Members and the board shall have 1 week notice for meetings.
 
 **Section 2 : Meetings**:
 
-Member-wide club meetings will be held every other week, at a time determined by the board of directors. 
+Member-wide club meetings will be held every other week, at a day time determined by the board of directors. 
+
+**Section X : Board Meetings**:
+
+**_Option_**:
+
+Board meetings shall be held at a schedule determined by the board.
+
+**Section X : Calling A Meeting**
+
+**_Option_**:
+
+The board shall vote when normal meetings are.
+
+**_Option_**:
+
+A member has the priviledge to call an emergency meeting of the membership to address some grievance once per semester.
+
 
 **Section 3 : Voting**: 
 
@@ -134,20 +226,24 @@ The board of directors will meet each week the club is not holding a member-wide
 
 ### Article VII - Conduct
 
-_to be proposed at meeting 3_
+**Approved Meeting 3**
 
-Any conversations on the club discord or in club meetings that violate UNHM's academic honestly policy are disallowed. If a member wants help with their homework, helping members should ask them socratic questions or point them to useful resources, but shall not complete their homework for them or hand them the answers.
+1. Any conversations on the club discord or in club meetings that violate UNHM's academic honestly policy are disallowed. If a member wants help with their homework, helping members should ask them socratic questions or point them to useful resources, but shall not complete their homework for them or hand them the answers.
 
-This club will be apolitical. It will never make any official statements about topical political issues. The club is about programming only, not about politics. Politics also have no place on the Discord server, which shall be about Programming and UNH.
+1. This club will be apolitical. It will never make any official statements about topical political issues. The club is about programming only, not about politics. Politics also have no place on the Discord server, which shall be about Programming and UNH.
 
-In accordance with the University of New Hampshire non-discrimination statement, this club will not discriminate based on race, color, religion, sex, age, national origin, sexual orientation, gender identity expression, disability, veteran status, marital status, genetic information, pregnancy, or political orientation. These facets of an individual will not be considered when voting or appointing them to an officer role, as a member of a committee, as a group project leader, or any other position. Discussions about these things also generally do not belong on the discord or in meetings, as they do not relate to programming. 
+1. In accordance with the University of New Hampshire non-discrimination statement, this club will not discriminate based on race, color, religion, sex, age, national origin, sexual orientation, gender identity expression, disability, veteran status, marital status, genetic information, pregnancy, or political orientation. These facets of an individual will not be considered when voting or appointing them to an officer role, as a member of a committee, as a group project leader, or any other position. Discussions about these things also generally do not belong on the discord or in meetings, as they do not relate to programming. 
 
-Sexual harrassment of any kind will not be tolerated. Any member who sexually harasses any individual on a club communication platform or any individual they met on a club communication platform will be expelled from the club and be reported to the university or the authorities. This club will be a place where all sexes can be comfortable and be treated equally, without having to worry about harassment. This means there is to be no discussion of sex in the discord or in meetings.
+1. Sexual harrassment of any kind will not be tolerated. Any member who sexually harasses any individual on a club communication platform or any individual they met on a club communication platform will be expelled from the club and be reported to the university or the authorities. This club will be a place where all sexes can be comfortable and be treated equally, without having to worry about harassment. This means there is to be no discussion of sex in the discord or in meetings.
 
-Vulgar language is not permitted in the Discord or in meetings. While sometimes individuals accidentally swear, consistant violators may face censure, muting, or, in egregious cases, explusion.
+1. Vulgar language is not permitted in the Discord or in meetings. While sometimes individuals accidentally swear, consistant violators may face censure, muting, or, in egregious cases, explusion.
 
-Members will treat each other with respect and kindness. Members will show patience with members who do not have as much programming experience as they do. Members will not mock or bully other members.
+1. Members will treat each other with respect and kindness. Members will show patience with members who do not have as much programming experience as they do. Members will not mock or bully other members.
 
 ### Article VIII - Ratification
+
+
+
+**_Option_**
 
 This constitution shall be approved by a 2/3rds vote of all members.
