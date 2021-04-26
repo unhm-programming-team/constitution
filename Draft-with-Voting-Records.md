@@ -37,11 +37,15 @@ _(voted 3/27/2021, 7-0)_
 
 _(voted 3/27/2021, 7-0)_
 
+5. Members will cast a vote in the yearly officer elections. They may vote to "abstain"
+
+<p style="color:red">possibly not voted - confirm</p>
+
 ## Section 3 - Member Privileges
 
 1. Members may propose a resolution at any club meeting, in a manner appropriate to the meeting's rules of order.
 
-<p style="color:red">_not voted_</p>
+<p style="color:red">not voted</p>
 
 2. Members may start a new group programming project on the github organization page, promote that project to members of the club, and be vested with control and leadership over the project they started. The board may cancel a project only if there is a legitimate, specific reason, such as violating conduct requirements.
 
@@ -151,7 +155,7 @@ _(voted 4/17/2021, 7-0)_
 
 ## Section 4 - Removing Officers
 
-1. Any officer neglecting their duties may be removed by a 2/3 vote of the board. They may appeal to the general membership at the next general member meeting, and a 2/3 vote from the membership will reinstate them.
+1. Any officer neglecting their duties may be removed by a 2/3 vote of the board. They may appeal to general membership at the next member meeting, and a 2/3 vote from the membership will reinstate them.
 
 1. Membership may vote to remove an officer by a 2/3 vote.
 
