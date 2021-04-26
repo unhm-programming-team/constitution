@@ -27,13 +27,13 @@ _(voted 3/20/2021, 5-0)_
 
 _(probably voted 3/27/2021, 7-0 - reconfirm)_
 
-1. Members shall cast a vote in the yearly elections for officers. Not submitting a vote constitutes abdication of membership. A vote of "Abstain" is a valid vote.
+2. Members shall cast a vote in the yearly elections for officers. Not submitting a vote constitutes abdication of membership. A vote of "Abstain" is a valid vote.
 
-1. Members will strictly abide by the Conduct section of this document on all club communication platforms.
+3. Members will strictly abide by the Conduct section of this document on all club communication platforms.
 
 _(voted 3/27/2021, 7-0)_
 
-1. Members must be a student at the University of New Hampshire (either campus) or have graduated or transferred within the last 2 years.
+4. Members must be a student at the University of New Hampshire (either campus) or have graduated or transferred within the last 2 years.
 
 _(voted 3/27/2021, 7-0)_
 
@@ -116,6 +116,8 @@ _(elected 4/25/2021, 5-0)_
 
 The first faculty advisor is Professor Mihaela Sabin.
 
+_(voted 4/10/2021, 6-0)_
+
 ## Section 1 - Officer Requirements
 
 1. Officers must be current students at the University of New Hampshire, Manchester campus.
@@ -142,7 +144,7 @@ _(voted 4/17/2021, 7-0)_
 
 ## Section 3 - Nomination
 
-1. Members may nominate themselves to run for foficer roles but must receive a 'second' at the time of nomination to be added to the ballot.
+1. Members may nominate themselves to run for officer roles but must receive a 'second' at the time of nomination to be added to the ballot.
 1. Members may nominate other members to run and the presumptive nominee will subsequently be asked if they wish to run.
 
 _(voted 4/17/2021, 7-0)_
