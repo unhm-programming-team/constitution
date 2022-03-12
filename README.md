@@ -2,6 +2,12 @@
 
 This repo contains the working draft for the UNHM Programming Club Constitution.
 
+This was originally used while drafting the constitution. The original draft can be found in this repo as `Original-Draft.md`
+
+`Current-Draft.md` is a mirror of what is displayed on the website and is the current draft of the constitution, including current board members.
+
+The current draft is best viewed [on the website](https://unhm-programming-club.github.io/constitution/).
+
 ### Member rights under this draft
 
 - Propose resolutions
