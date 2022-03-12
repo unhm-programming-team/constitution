@@ -92,21 +92,21 @@ _(voted 4/17/2021, 7-0)_
 
 # Article IV - Officers
 
-The first officers of the club are:
+**The first officers of the club are:**
 
  - Karl Miller, President
 
 _(elected 3/20/2021, 5-0)_
 
- - Davis Moore, Vice President,
+ - Davis Moore, Vice President
 
 _(elected 3/27/2021, 7-0)_
 
- - Kaitlin McManus, Secretary,
+ - Kaitlin McManus, Secretary
 
 _(elected 3/20/2021, 5-0)_
 
- - Adam Morvant, Discord Administrator,
+ - Adam Morvant, Discord Administrator
 
 _(elected 3/20/2021, 5-0)_
 
@@ -121,6 +121,24 @@ _(elected 4/25/2021, 5-0)_
 The first faculty advisor is Professor Mihaela Sabin.
 
 _(voted 4/10/2021, 6-0)_
+
+**The Second officers of the club are:**
+
+ - Davis Moore, President
+
+_(elected 3/11/2022, 4-0)_
+
+ - Tony Pion, Vice President
+
+_(elected 3/11/2022, 5-0)_
+
+ - Kaitlin McManus, Secretary
+
+_(elected 3/11/2022, 4-0)_
+
+ - Adam Morvant, Discord Administrator
+
+_(elected 3/11/2022, 5-0)_
 
 ## Section 1 - Officer Requirements
 
